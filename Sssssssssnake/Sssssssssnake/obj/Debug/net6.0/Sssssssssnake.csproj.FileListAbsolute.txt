@@ -1,0 +1,15 @@
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.csproj.AssemblyReference.cache
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.AssemblyInfoInputs.cache
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.AssemblyInfo.cs
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.csproj.CoreCompileInputs.cache
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\bin\Debug\net6.0\Sssssssssnake.exe
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\bin\Debug\net6.0\Sssssssssnake.deps.json
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\bin\Debug\net6.0\Sssssssssnake.runtimeconfig.json
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\bin\Debug\net6.0\Sssssssssnake.dll
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\bin\Debug\net6.0\Sssssssssnake.pdb
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.dll
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\refint\Sssssssssnake.dll
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.pdb
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\Sssssssssnake.genruntimeconfig.cache
+C:\Users\pshum\source\repos\Sssssssssnake\Sssssssssnake\obj\Debug\net6.0\ref\Sssssssssnake.dll
